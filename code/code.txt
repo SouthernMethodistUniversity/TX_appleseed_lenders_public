@@ -1,0 +1,9 @@
+buffers creates map with a 1 mile buffer around payday lenders
+bufferswithevictions generates the buffer map including evictions
+ethnicitymaps generates base maps indicating ethnicity values and plots lenders and evictions
+incomecleaning cleans the income data
+incomemap creates base map indicative of income along with plotting lenders, buffers, and evictions
+judgementcleaning cleans the judgement dataset 
+judgementmap creates a map with a base indicating judgement amounts with the ability to add the evictions themselves
+judgementplots generates two different bar plots based on judgement amounts
+lendersmap generates a preliminary map visualization of the lenders in the city of Dallas
