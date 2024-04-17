@@ -1,0 +1,9 @@
+cleanedpayday.csv
+DallasCounty_EvictionJudgements.xlsx
+DallasCounty_HistoricalEvictionRecords.xlsx
+ethnicity.csv
+ethinicitydata_clean.csv
+evictions_historic_merged.csv
+income.csv
+incomedata_clean.csv
+payday2.xlsx
