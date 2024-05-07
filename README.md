@@ -17,7 +17,7 @@ From this graph, we were able to take it a step further and add in some of our C
 
 Another avenue we looked at was to graph the Total Judgment Amounts by Census block with the location of evictions. On this graph, we used a color scheme indicating that the darker the color, the more expensive the judgment. Additionally, the hatched out areas are those without judgment amount information. This map also allows us to see some of the high concentration eviction areas. 
 
-![Total Judgment Amounts with Evictions](results/total_judgment_by_censusblk_loc?raw=True)
+![Total Judgment Amounts with Evictions](results/total_judgment_by_censusblk_loc.jpg?raw=True)
 
 Finally, the last maps that we made still included the locations of the payday lenders and the evictions, but used a base indicating percent of different demographics. The ranges represent the total numbers of Hispanic, Black, White, and Total People. First, the total Hispanic population numbers. 
 
