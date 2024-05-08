@@ -35,5 +35,4 @@ Finally, the total People population numbers.
 
 ![Total People](results/totalpeople.png?raw=True)
 
-### Graphs
 
